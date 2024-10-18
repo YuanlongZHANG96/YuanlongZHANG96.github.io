@@ -1,72 +1,46 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Yuanlong Zhang's Personal Portfolio ⚡️
 
-> https://varadbhogayata.github.io
+> Welcome to my personal portfolio, where you can explore my journey in Business Intelligence, Data Analytics, and Software Development!
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
+> https://yuanlongzhang96.github.io
+
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://YuanlongZHANG96.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/yuanlong-zhang-cpa/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+## About Me
+Hi, I’m **Yuanlong Zhang**, a passionate **Business Intelligence Lead Developer** with extensive experience in **data analytics**, **BI solution development**, and **reporting automation**. I enjoy tackling complex business problems through data-driven solutions, utilizing tools like **Power BI**, **SQL**, and **Python**.
 
-:star: Star me on GitHub — it helps!
+I have worked across various industries, transforming raw data into actionable insights for decision-making at every level. I bring curiosity and a growth mindset to every project, always looking for new ways to innovate and optimize processes.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## Experience
+Currently, I work at **ENSTAR GROUP** as a **Business Intelligence Lead Developer**, where I design and develop BI solutions that enhance reporting capabilities and drive business insights. My expertise also extends to BI application lifecycle management, data modeling, and performance optimizations using advanced tools like Power BI and Snowflake.
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+Previously, I have contributed to several impactful BI projects at organizations such as **AIG**, **Nationwide Mortgage Bankers**, and **MetroHealth**.
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+## Projects
+- **Deep Learning for Healthcare**: COVID-19 CT Scan Classification using Deep Learning techniques in **Python**.
+- **ETL for Healthcare**: Built an end-to-end ETL process for a medical clinic, integrating patient data into a centralized data warehouse.
+- **Interactive Tableau Dashboards**: Developed a comprehensive BI solution to analyze COVID-19’s impact on the Consumer Price Index (CPI) using **Tableau** and **SQL Server**.
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+## Skills
+My core skills include:
+- **BI Tools**: Power BI, Microsoft Fabric, Tableau
+- **Data Modeling & Automation**: SQL, Power Query, SSAS, SSIS
+- **Programming**: Python, SQL, DAX, M, VBA
+- **Cloud Platforms**: Azure SQL, Snowflake
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+I also have expertise in building custom data visualizations using **Python** libraries like **Matplotlib** and **Seaborn**, and have a knack for optimizing BI processes to reduce time and improve data quality.
 
-## Contributing 💡
-#### Step 1
+## Education
+- **Master of Computer Science** – University of Illinois Urbana-Champaign (UIUC)
+- **Master of Business Analytics** – Case Western Reserve University
+- **Bachelor of Computer Science** – Renmin University of China
 
-- **Option 1**
-    - 🍴 Fork this repo!
+## Contact Me
+If you’re interested in collaborating or just want to say hello, feel free to reach out:
+- **Email**: yuanlong0910@gmail.com
+- **GitHub**: [YuanlongZHANG96](https://github.com/YuanlongZHANG96)
+- **LinkedIn**: [Yuanlong Zhang, CPA](https://www.linkedin.com/in/yuanlong-zhang-cpa/)
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+I look forward to connecting with you!
